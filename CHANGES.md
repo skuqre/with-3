@@ -1,6 +1,6 @@
 
 ## Changes / what I put or improved?
-I put a LOT of changes because I thought it would be just another engine. It grew to be a mod instead.
+I put quite a bit of changes because I thought it would be just another engine. It grew to be a mod instead.
 - **Replays (STILL BETA)**
     - Records presses
     - Uses Note Difference for ratings
