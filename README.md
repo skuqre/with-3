@@ -19,5 +19,21 @@ I put a LOT of changes because I thought it would be just another engine. It gre
     - Note Skins: Oh yeah baby mhm oh yeah
     - Changed "Accuracy" to "Info Text - Simple/Extensive"
     - Modifiers or whatever you call them
+    - Improved Description Display
+    - Made Gameplay Customize State use Screen Position
+    - Added Health Bar Colors (toggleable)
+    - Added "Fancy" Health Bar (toggleable)
+    - Added Strumline X Offset (changeable)
+    - Added most accessibility options in a new option category
+    - Added data shit from KE 1.6+ I think?
+- **Things from other engines**
+     - **Kade Engine**
+        - Base
+        - Caching.hx
+    - **Psych Engine**
+        - "TRACKS" text in story mode menu
+        - The song position bar's design
+    - **The Tabi Mod**
+        -  Chromatic Aberration code though it's not even used LMAO
 
-will add more shit later
+will add more stuff later
