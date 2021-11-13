@@ -6,7 +6,7 @@ I put quite a bit of changes because I thought it would be just another engine.
     - Uses Note Difference for ratings
     - Added Delete function on Replay Menu
 - **Botplay**
-    - Made it strumtime-based (it was based on a note's y axis before)
+    - Made it strumtime-based (it was based on a note's y-position before)
     - Will put a warning when a section has more than 200 notes
     - You can change the scroll speed (when it's default) while in Botplay
 - **Options Changes**
