@@ -8,6 +8,7 @@ I put a LOT of changes because I thought it would be just another engine. It gre
 - **Replays (STILL BETA)**
     - Records presses
     - Uses Note Difference for ratings
+    - Added Delete function on Replay Menu
 - **Botplay**
     - Made it strumtime-based (it was based on a note's y axis before)
     - Will put a warning when a section/s has more than 200 notes
@@ -19,21 +20,24 @@ I put a LOT of changes because I thought it would be just another engine. It gre
     - Note Skins: Oh yeah baby mhm oh yeah
     - Changed "Accuracy" to "Info Text - Simple/Extensive"
     - Modifiers or whatever you call them
-    - Improved Description Display
+    - Improved Option Description Display
     - Made Gameplay Customize State use Screen Position
     - Added Health Bar Colors (toggleable)
     - Added "Fancy" Health Bar (toggleable)
     - Added Strumline X Offset (changeable)
     - Added most accessibility options in a new option category
-    - Added data shit from KE 1.6+ I think?
+    - Added saves and data shit from KE 1.6+ I think?
+- **TitleState**
+    - Lessened the crashes (though there are chances)
+    - Doesn't use logoBumpin anymore
 - **Things from other engines**
-     - **Kade Engine**
+     - [**Kade Engine**](https://github.com/KadeDev/Kade-Engine)
         - Base
         - Caching.hx
-    - **Psych Engine**
+    - [**Psych Engine**](https://github.com/ShadowMario/FNF-PsychEngine)
         - "TRACKS" text in story mode menu
         - The song position bar's design
-    - **The Tabi Mod**
+    - [**The Tabi Mod**](https://github.com/GrowtopiaFli/tabi-mod-source)
         -  Chromatic Aberration code though it's not even used LMAO
 
 will add more stuff later
